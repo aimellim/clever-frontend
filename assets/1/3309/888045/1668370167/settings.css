@@ -1,0 +1,173 @@
+/* settings.site_color_1 */
+
+
+header .main-menu a {
+  color: #ffffff;
+}
+header .main-menu a:hover,
+header .main-menu a.active,
+.product-preview .product-price b,
+.product-page .product-price .js-product-price,
+.modal .option-item:after,
+.js-blog-carousel .blog-point a,
+.orange,
+.button-to-top,
+.breadcrumb-link.current-page,
+.collection-filters .filter-header i.fa-angle-left,
+.related-products .related-product .product-price,
+.similar-products .related-product .product-price,
+.social-links a:hover,
+.cart-page .total-summ span {
+  color: #ED4075;
+}
+footer a:hover {
+  color: #ED4075 !important;
+}
+header.mainpage .line-bottom:after,
+.btn-orange,
+.btn-template,
+.js-main-slider .owl-pagination .owl-page.active:after,
+.random-items .point .point-p:after,
+.product-preview .compare-add, 
+.product-preview .compare-delete,
+.modal .button-primary, 
+.modal .js-fast-order-open,
+.modal .button-number, 
+#fast-order-modal button.button-black,
+.header-main.reg .cat-submenu,
+.coll-catalogue,
+.collection-content .editor-title > div,
+.irs-slider,
+.tabs-block .tabs-menu .tabs-item:after,
+.block-header.styled > div,
+.js-main-slider .special a:hover,
+.page-header:after,
+#feedback_form #feedback_commit,
+.co-button,
+.picker-button {
+  background-color: #ED4075;
+}
+header .line-bottom .rightside .point a, 
+header .line-bottom .rightside .point button {
+  background-color: #000000;
+}
+
+header .line-bottom .rightside .point a:hover, 
+header .line-bottom .rightside .point button:hover,
+.btn-orange:hover{
+  background: #000000;
+  opacity: 0.8;
+}
+.product-page .compare-link.active .compare-icon {
+  fill: #ED4075;
+}
+
+/* =================================================== */
+
+
+.best-items .pp-title:after,
+.block-header.styled > div:after{
+  border-left: 19px solid #ED4075;
+}
+.header-search .search-input{
+  //border-top: 1px solid #ED4075;
+  //border-left: 1px solid #ED4075;
+  border: 0;
+}
+.js-main-slider .owl-pagination .owl-page.active {
+  border: 1px solid #ED4075;
+}
+.modal .input-field, 
+.modal .textarea-field,
+.modal .select-field, 
+.modal select{
+  border: 2px solid #ED4075;
+}
+.header-main.reg .cat-submenu:before,
+.collection-content .editor-title > div:after{
+  border-left: 20px solid #ED4075;
+}
+
+/* settings.site_color_2 */
+
+.dropdown-menu-mobile,
+.collection-filters .filter-footer .js-filter-reset,
+.collection-filters .button-reset-filters,
+.product-preview .discount,
+.product-page .label-discount,
+.tabs-block .tabs-menu .tabs-item.active,
+.related-products h2 {
+  background-color: #ED4075;
+}
+.random-items {
+  background: #ED4075 url(collection_bg.png) center;
+}
+.collection-filters .filter-header .menu_icon.left {
+  fill: #ED4075;
+}
+
+.checkbox-field:checked+.checkbox-label:before {
+  content: '';
+  background: #ED4075;
+  border: 1px solid #ED4075;
+}
+
+.related-products h2:after {
+  border-top: 19px solid #ED4075;
+}
+
+/* =================================================== */
+
+.new-items .pp-title:after{
+  border-left: 30px solid #ED4075;
+}
+
+/* settings.site_color_3 */
+
+.blog-carousel .pp-title h3,
+.blog-carousel .pp-title .to-category,
+.blog-carousel.product-carousel .owl-nav {
+  color: #FFFFFF;
+  z-index: 10;
+}
+
+/* =================================================== */
+
+.blog-carousel .pp-title:after{
+  border-left: 30px solid #FFFFFF;
+}
+
+/* settings.site_color_2 */
+
+body{
+	color: #000000;
+}
+
+/* =================================================== */
+/* =================================================== */
+
+footer {
+  
+      background-color: #FFFFFF;
+  
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
